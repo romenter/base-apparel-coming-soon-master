@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Island+Moments&family=Josefin+Sans:wght@300;400;600&family=Montserrat:wght@500;700&family=Outfit:wght@400;700&family=Overpass:wght@400;700&family=Quicksand:wght@300;500;700&family=Roboto:wght@100&display=swap');
+*{
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;;
+}
+
+:root{
+    /* primary */
+    --desatured-red: hsl(0, 36%, 70%);
+    --soft-red: hsl(0, 93%, 68%);
+    /* neutral */
+    --dark-grayish: hsl(0, 6%, 24%)
+}
+
+
