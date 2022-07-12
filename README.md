@@ -1,6 +1,6 @@
 
 ## Welcome! 👋
-
+My name is romen, fronted development
 
 ## The challenge
 
@@ -34,36 +34,30 @@ If you start a proyect, and if you know the app going to be responsive, use VH a
 
 Font size basic is in 16px 
 
+### 4 Other elements
+Used regex for mail validation:
+https://emailregex.com/
 
-## Submitting your solution
+-Add a package (just in case)
 
+-Separate roots of styles
+## Repository and page
 
+linkedin: https://www.linkedin.com/in/romen-ter-gazarian/
 
+twitter: @romenterga
 
-## Sharing your solution
+### repository:
+https://github.com/romenter/base-apparel-coming-soon-master
 
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
-
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
+page: 
+https://romenter.github.io/base-apparel-coming-soon-master/
 
 ## Got feedback for us?
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+Be nice, give a feedback
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
-
-
-
-
+**Have a nice code day!** 🚀
 
 
 
